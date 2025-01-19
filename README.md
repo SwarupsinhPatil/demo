@@ -1,4 +1,4 @@
 # demo
 try to learn better 
 <br>
-Git is imp 
+Git is imp for you 
